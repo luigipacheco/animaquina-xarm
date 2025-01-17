@@ -27,8 +27,8 @@ Animaquina is a robot Integrated Development Environment (IDE) designed for cont
 
 ## Usage
 
-1. Select the robot you have from the drop down list this is either ufxarm6_twin, uf850 or ur5e
-2. Set the IP address of your Universal Robot in the Animaquina panel.
+1. Select the robot you have from the drop down list this is either ufxarm6_twin, uf850.
+2. Set the IP address of your obot in the Animaquina panel.
 3. In the target selection dropdown, select the 'tcp_target' .
 4. Click the **Connect** button to establish a connection with the robot.
 5. Click the **Update Pose** button to synchronize the digital twin's TCP with the selected robot's TCP. This action updates the current joint rotation and TCP position of the digital twin robot.
