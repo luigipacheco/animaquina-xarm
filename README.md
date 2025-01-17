@@ -101,6 +101,9 @@ GPL License
 
 For support or to report bugs, please [contact our support team/create an issue on our GitHub repository].
 
+## Install
+https://youtu.be/NPsnpP_cLk0
+
 **Note:** This is a pre-alpha version intended for development and testing purposes only. It contains significant limitations and safety risks. Do not use in production environments or without expert supervision.
 
 ## Acknowledgments
