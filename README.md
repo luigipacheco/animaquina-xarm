@@ -1,3 +1,7 @@
+> **⚠️ This repository is archived and no longer maintained.**
+> Development has moved to the main Animaquina repository: **https://github.com/luigipacheco/animaquina**
+> Please use it for the latest version, support for more robots, issues and updates.
+
 # Animaquina v0.0.8 Pre-Alpha for Ufactory Robots
 by Luis Pacheco
 
